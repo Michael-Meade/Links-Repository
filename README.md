@@ -6,11 +6,61 @@
 - Cyberbanging: Street Gangs Employ Social Media As A Recruiting Tool - https://archive.ph/iNlyB
 - Hoping to revive mammoths, scientists create 'woolly mice' - https://archive.ph/9yFJH
 - This is your brain. This is your brain on code - https://archive.ph/XSoyM
+- 1.4 million-year-old jaw that was 'a bit weird for Homo' turns out to be from never-before-seen human relative - https://archive.ph/RUan6
+The hidden brain power behind programming - https://archive.ph/8hfcC
+- Street gangs turn to high-tech cybercrime to make a living - https://archive.ph/AwAKo
+- In the Hood: Street Gangs Discover White-Collar Crime - https://archive.ph/9xSfZ
+- How the Mafia Is Pivoting to Cybercrime - https://archive.ph/AOEsR
+- Europol: Italian Mafia Tied to Cybercriminals Responsible for €10 Million in Cyberattacks - https://archive.ph/SxTEE
+- Scientists generate the first complete chromosome sequences from non-human primates - https://archive.ph/ThPAZ
+- Benjamin Franklin Printed Money With a Special Dye and Innovative Techniques to Thwart Counterfeiters, New Research Finds - https://archive.ph/b3JNt
+- Like humans, chimps often perform tasks differently when crowds are watching - https://archive.ph/FyZbf
+- Meet the ancient 'big head' people: Scientists uncover a 'lost' human in Asia with an abnormally large skull that lived alongside homo sapiens 100,000 years ago - https://archive.ph/xhVSm
+- Meet Homo Juluensis, Your New Big-Headed Ancient Ancestor - https://archive.ph/yUhyF
+- Scientists Discovered a New Human Species That Defies Conventional Wisdom - https://archive.ph/ZrNa5
+- How an Ancient Human Species Formed Family Ties - https://archive.ph/x4rKx
+- How Do People Who Are Blind or Visually Impaired Identify Money? - https://archive.ph/lwy6Z
+- The most ancient human genome yet has been sequenced—and it’s a Denisovan’s - https://archive.ph/8wuss
+- Thirteen Discoveries Made About Human Evolution in 2023 - https://archive.ph/dVbDG
+- Humans and Neanderthals Lived Side by Side in Northern Europe 45,000 Years Ago, Study Finds - https://archive.ph/p3xOt
+- Why Were There So Many Skeletons Hidden in Benjamin Franklin’s Basement? - https://archive.ph/yDKjU
+- Anticounterfeiting secrets of Benjamin Franklin’s paper money revealed - https://archive.ph/hQJwy
+- Ben Franklin Lives in Your Smartphone - https://archive.ph/LEHYG
+- Fact: Millennials Didn’t Invent Selfies—This Guy Did - https://archive.ph/2gTcp
+- Case Files: Nikola Tesla - https://archive.ph/R5nkb
+- Nikola Tesla and the Tower That Became His ‘Million Dollar Folly’ - https://archive.ph/R1QnZ
+- 65,000-year-old hearth in Gibraltar may have been a Neanderthal 'glue factory,' study finds - https://archive.ph/mlqaW
+- After 50 Years, Scientists Still Love Lucy - https://archive.ph/WdlXp
+- Venting Doesn't Reduce Anger, But Something Else Does, Study Shows - https://archive.ph/MCwAH
+- Neanderthals and early Homo sapiens buried their dead differently, study suggests - https://archive.ph/M4AZk
+- We’re closer to re-creating the sounds of Parasaurolophus - https://archive.ph/7LzWt
 
 ### DefCon Talks
 - DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling - https://www.youtube.com/watch?v=vcAHbvTlpKA
 - DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets - https://www.youtube.com/watch?v=0QT4YJn7oVI
 - Defcon 21 - How my Botnet Purchased Millions of Dollars in Cars and Defeated the Russian Hackers - https://www.youtube.com/watch?v=sgz5dutPF8M
+- DEFCON 17: Search And Seizure Explained - They Took My Laptop! - https://www.youtube.com/watch?v=ibQGWXfWc7c
+- DEFCON 17: That Awesome Time I Was Sued For Two Billion Dollars - https://www.youtube.com/watch?v=KSWqx8goqSY
+- DEF CON 32 - Inside the FBI’s Secret Encrypted Phone Company ‘Anom’ - Joseph Cox -  https://www.youtube.com/watch?v=uFyk5UOyNqI
+- DEF CON 24 SE Village - Chris Hadnagy - 7 Jedi Mind Tricks: Influence Your Target without a Word - https://www.youtube.com/watch?v=VFnCRVWBISY
+- Defcon 21 - Social Engineering: The Gentleman Thief - https://www.youtube.com/watch?v=1kkOKvPrdZ4
+- DEF CON 32 - Behind Enemy Lines: Going undercover to breach LockBit Ransomware Op- Jon DiMaggio - https://www.youtube.com/watch?v=dLOUzF6_Y54
+- DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin - https://www.youtube.com/watch?v=zccAvgC4UxU
+- DEF CON 26 - Fuzzing Malware For Fun & Profit - Find and Exploit Bugs in Modern Malware - https://www.youtube.com/watch?v=JnKFqt6P6Io
+- DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught - https://www.youtube.com/watch?v=eQ2OZKitRwc
+- DEF CON 22 - Michael Ossmann - The NSA Playset: RF Retroreflectors - https://www.youtube.com/watch?v=mAai6dRAtFo
+- DEF CON 26 - Rob Joyce - NSA Talks Cybersecurity - https://www.youtube.com/watch?v=gmgV4r25XxA
+- DEF CON 23 - Robinson and Mitchell - Knocking my neighbors kids cruddy drone offline - https://www.youtube.com/watch?v=5CzURm7OpAA
+- DEF CON 18 By Zoz - Pwned By The Owner - https://www.youtube.com/watch?v=njTCH5rKwnc
+- DEF CON 24 - regilero - Hiding Wookiees in HTTP: HTTP smuggling - https://www.youtube.com/watch?v=dVU9i5PsMPY
+- DEFCON 16: Toying with Barcodes - https://www.youtube.com/watch?v=qT_gwl1drhc
+- Massscanning the Internet - Defcon 22 (2014) - https://www.youtube.com/watch?v=UOWexFaRylM
+- Fyodor - Nmap: Scanning The Internet - Defcon 16 -  https://www.youtube.com/watch?v=R_vHhEzxYkY
+- DEF CON 22 - Nemus - An Introduction to Back Dooring Operating Systems for Fun and Trolling - https://www.youtube.com/watch?v=g9H-WO_RY3k
+- DEFCON 17: Lockpicking Forensics - https://www.youtube.com/watch?v=6kS3kVBotwI
+- DEF CON 21 - Panel - Key Decoding and Duplication Attacks for the Schlage Primus Lock - https://www.youtube.com/watch?v=rLMRwB5QUBA
+- DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend - https://www.youtube.com/watch?v=fWk_rMQiDGc
+- DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor - https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### Arrests and takedowns
 - Spain arrests suspected hacker of US and Spanish military agencies - https://archive.ph/Y4Y1d
@@ -535,3 +585,179 @@ https://archive.ph/YosPs
 - Exploiting Empire C2 Framework - https://aceresponder.com/blog/exploiting-empire-c2-framework
 - Vulnerabilities in Open Source C2 Frameworks - https://archive.ph/OFcm3
 - How I Hacked 40 Websites in 7 minutes - https://archive.ph/mBRHG
+
+### Malware
+- Gootloader C2 Sails to New Hoster (and new URL)
+https://archive.ph/W0usB
+RansomHub Affiliate leverages Python-based backdoor
+https://archive.ph/fg7ti
+LockBit Admins Tease a New Ransomware Version
+https://archive.ph/Kq3LZ
+Python-Based NodeStealer Version Targets Facebook Ads Manager
+https://archive.ph/dkkEp
+Rise of LNK (Shortcut files) Malware
+https://archive.ph/FitJ4
+Skuld Infostealer Returns to npm with Fake Windows Utilities and Malicious Solara Development Packages
+https://archive.ph/Jqaeo
+Phishing Campaigns featuring Ursnif Trojan on the Rise
+https://archive.ph/Ln48C
+HANCITOR DOC drops via CLIPBOARD
+https://archive.ph/1tda0
+Malicious PowerPoint Documents on the Rise
+https://archive.ph/UBMX8
+Android malware distributed in Mexico uses Covid-19 to steal financial credentials
+https://archive.ph/jDFeM
+GULoader Campaigns: A Deep Dive Analysis of a highly evasive Shellcode based loader
+https://archive.ph/VM4Rm
+HiddenAds Spread via Android Gaming Apps on Google Play
+https://archive.ph/TATqx
+Peeling Back the Layers of RemcosRat Malware
+https://archive.ph/TUNau
+- Unmasking AsyncRAT New Infection Chain - https://archive.ph/4qP2Q
+- Distinctive Campaign Evolution of Pikabot Malware - https://archive.ph/EpWBd
+- PDF Phishing: Beyond the Bait - https://archive.ph/8XQZG
+- Stealth Backdoor “Android/Xamalicious” Actively Infecting Devices - https://archive.ph/BbNE4
+- DarkGate: Dancing the Samba With Alluring Excel Files - https://archive.ph/VBEDR
+- Gootloader’s New Hideout Revealed: The Malware Hunt in WordPress’ Shadows - https://archive.ph/a8Mhe
+- Welcome to Goot Camp: Tracking the Evolution of GOOTLOADER Operations - https://archive.ph/wip/xloz9
+- Python Crypto Library Updated to Steal Private Keys - https://archive.ph/dqEEn
+- 6 Common Persistence Mechanisms in Malware - https://archive.ph/GZqAu
+- Technical Analysis of DarkVision RAT - https://archive.ph/n6hoH
+- Phishing Via Typosquatting and Brand Impersonation: Trends and Tactics - https://archive.ph/Aa0E2
+- Unpacking the unpleasant FIN7 gift: PackXOR - https://archive.ph/M2fjZ
+- Shining Light on the Dark Angels Ransomware Group - https://archive.ph/n6hoH
+- BlindEagle Targets Colombian Insurance Sector with BlotchyQuasar - https://archive.ph/xLiZF
+- RAT Malware Operating via Discord Bot - https://archive.ph/VDkUs
+- Unraveling Raspberry Robin's Layers: Analyzing Obfuscation Techniques and Core Mechanisms - https://archive.ph/s2CQU
+- SmokeBuster: Keeping Systems SmokeLoader Free - https://archive.ph/2cn98
+- China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign - https://archive.ph/CpQ7C
+- APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware - https://archive.ph/HbXi6
+- PythonRatLoader: The Proprietor of XWorm and Friends - https://archive.ph/4emmf
+- Hamas-linked SameCoin campaign malware analysis - https://archive.ph/7FtzS
+- Unmasking Styx Stealer: How a Hacker’s Slip Led to an Intelligence Treasure Trove - https://archive.ph/GpNKs
+- July 2020’s Most Wanted Malware: Emotet Strikes Again After Five-Month Absence - https://archive.ph/bpJSu
+- Gootloader’s Pivot from SEO Poisoning: PDF Converters Become the New Infection Vector - https://gootloader.wordpress.com/2024/11/07/gootloaders-pivot-from-seo-poisoning-pdf-converters-become-the-new-infection-vector/
+- Telegram Bot API based Python backdoor with file download and
+execution capability - https://archive.ph/IW9vp
+- Create your own custom implant - https://archive.ph/4yjFC
+- Sign1 Malware: Analysis, Campaign History & Indicators of Compromise - https://archive.ph/GQPHU
+- The Prevalence of DarkComet in Dynamic DNS - https://archive.ph/XZCw6
+- Analysis of DEV#POPPER: New Attack Campaign Targeting Software Developers Likely Associated With North Korean Threat Actors - https://archive.ph/64x25
+- Jumpy Pisces Engages in Play Ransomware - https://archive.ph/0CdFm
+- Silent Skimmer Gets Loud (Again) - https://archive.ph/9sTEJ
+- Obfuscating Malicious, Macro-Enabled Word Docs - https://archive.ph/iO5hS
+- Inside SnipBot: The Latest RomCom Malware Variant - https://archive.ph/mZJkE
+- Tricks and Treats: GHOSTPULSE’s new pixel- level deception - https://archive.ph/cqDp5
+- PBot: a Python-based adware - https://archive.ph/7FVp1
+- Intro to malware analysis: Analyzing Python malware - https://archive.ph/7vF9i
+- PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer - https://archive.ph/3cyiT
+- New Python-Based Crypto-Miner Botnet Flying Under the Radar - https://archive.ph/ITfhx
+- Snakes on a Domain: An Analysis of a Python Malware Loader - https://archive.ph/S2TNd
+- Python-Based PWOBot Targets European Organizations - https://archive.ph/MLafX
+- Akira Stealer : An Undetected Python Based Info-stealer - https://archive.ph/noNrR
+- The Dead Russian Poets Society’: Silent Push uses behavioral fingerprinting, content scans and a 128-year old Russian poem to uncover 150+ new ACTIVE Lumma C2 servers and admin panels - https://archive.ph/xsPKd
+- You dirty RAT! Part 1: DarkComet - https://archive.ph/XU2Xl
+- DarkComet RAT: Technical Analysis of Attack Chain - https://archive.ph/EYTt8
+- Malicious Python Package Typosquats Popular 'fabric' SSH Library, Exfiltrates AWS Credentials - https://archive.ph/fQmmB
+- WISH STEALER - https://archive.ph/S954A
+- AsyncRAT’s Infection Tactics via Open Directories: Technical Analysis - https://archive.ph/iG2Vy
+- Finding Malware: Detecting GOOTLOADER with Google Security Operations. - https://archive.ph/ODziW
+- BianLian Ransomware Group: 2024 Activity Analysis - https://archive.ph/YA9Sj
+
+### Stocks
+- How to Pick Stocks: Fundamentals vs. Technical - https://archive.ph/gq2b8
+- Top Wall Street analysts pick these 3 dividend stocks for higher returns - https://archive.ph/ebsT1
+
+### AI
+- Machine Learning to identify malicious strings in a file - https://archive.ph/BJthZ
+- Conducting Robust Learning for Empire Command and Control Detection - https://archive.ph/9UMvG
+- Harnessing LLMs for Automating BOLA Detection - https://archive.ph/wQvAk
+- Detecting Vulnerability Scanning Traffic From Underground Tools Using Machine Learning - https://archive.ph/h1hOE
+- Deceptive Delight: Jailbreak LLMs Through Camouflage and Distraction - https://archive.ph/1TIuE
+- Simulate the activity of a brute-force attack - https://archive.ph/1kHDy
+- Using Decision Tree Analysis for Intrusion Detection: A How-To Guide - https://www.giac.org/paper/gcia/6498/decision-tree-analysis-intrusion-detection-how-to-guide/123230
+- An intelligent system that takes a document and classifies different writing styles within the document using stylometric techniques. - https://archive.ph/8NUzP
+- Stylometry library for Burrows' Delta method - https://archive.ph/Y7epe
+- Decision Tree Machine Learning - https://archive.ph/Bq71H
+- AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition - https://archive.ph/m6rFb
+- Tracing Ransomware Threat Actors Through Stylometric Analysis and Chat Log Examination - https://archive.ph/J9F96
+- Which Doors Are Open: Reinforcement Learning-based Internet-wide Port Scanning - https://archive.ph/5thbR
+
+### Ruby
+- Ruby ERB Template Injectionm- https://archive.ph/dNrqn
+- Attacking Ruby on Rails Applications - https://archive.ph/lrG5Y
+- Class, Object and Module Hierarchy - https://archive.ph/64u08
+- Class Pollution in Ruby: A Deep Dive into Exploiting Recursive Merges - https://archive.ph/YqtRe
+- Rack for Ruby: Socket Hijacking - https://archive.ph/r1Jjj
+- Sessions in Sinatra - https://archive.ph/FM3sn
+- Best Practices - https://archive.ph/nTyZR
+- an example ruby erb app vulnerable to ssti - https://archive.ph/3MDZ0
+- Blocks, Procs, and & operator in Ruby - https://archive.ph/ikPqx
+- Introducing Ruzzy, a coverage-guided Ruby fuzzer - https://archive.ph/ayAac
+- A random testing / fuzzer framework for Ruby. - https://archive.ph/d9RhB
+- Introducing Afl-Ruby: fuzz your Ruby programs using afl - https://archive.ph/W6xFo
+- A coverage-guided fuzzer for pure Ruby code and Ruby C extensions - https://archive.ph/Rdi2l
+
+### Awesome List
+- Awesome AWS S3 Security - https://archive.ph/AIecx
+- Awesome Android Reverse Engineering - https://archive.ph/nOieD
+- A curated list of free courses & certifications. - https://archive.ph/vYTKF
+- A curated list of amazingly awesome open-source sysadmin resources. - https://archive.ph/Y8TPg
+- A curated list of awesome Deep Learning tutorials, projects and communities. - https://archive.ph/K5BNd
+- A collection of awesome penetration testing resources, tools and other shiny things - https://archive.ph/sl7HP
+- 🐬 A collection of awesome resources for the Flipper Zero device. - https://archive.ph/6UsJE
+- A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- 📖 A curated list of resources dedicated to Natural Language Processing (NLP) - https://archive.ph/F5kbU
+- machine learning and deep learning tutorials, articles and other resources - https://archive.ph/wCPq8
+- 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources - https://archive.ph/wWjgi
+- 💎 A collection of awesome Ruby libraries, tools, frameworks and software - https://archive.ph/FtbPS
+- A curated list of awesome Hacking tutorials, tools and resources - https://archive.ph/XjPF9
+- Awesome Malware Analysis - https://archive.ph/fTlv9
+- :octocat: A collection of APIs - https://archive.ph/8Qjtm
+- 🐶 A curated list of Web Security materials and resources. - https://archive.ph/8Qjtm
+- A list of AI autonomous agents - https://archive.ph/VPGQ6
+
+### Python
+Over 100 Malicious Packages Target Popular ML PyPi Libraries - https://archive.ph/Mbvka
+- Introduction to stylometry with Python - https://archive.ph/xnGYe
+- Attacker Hidden in Plain Sight for Nearly Six Months, Targeting Python Developers - https://archive.ph/ICjp6
+- Unpacking Python Executables on Windows and Linux- https://archive.ph/d47Ra
+- Decompile compiled python binaries (exe, elf) - Retreive from .pyc - https://archive.ph/ukvah
+- Demystifying PyInstaller | A Journey into Decompiling Python Executables - https://archive.ph/JBk8v
+- Pyinstaller Reverse Engineering - https://archive.ph/X6H9j
+- pydumpck 1.20.1 - https://archive.ph/GnsXw
+- Over 100 Malicious Packages Target Popular ML PyPi Libraries - https://archive.ph/Mbvka
+- Introduction to stylometry with Python - https://archive.ph/xnGYe
+- Attacker Hidden in Plain Sight for Nearly Six Months, Targeting Python Developers - https://archive.ph/ICjp6
+- Unpacking Python Executables on Windows and Linux - https://archive.ph/d47Ra
+- Decompile compiled python binaries (exe, elf) - Retreive from .pyc - https://archive.ph/ukvah
+- Demystifying PyInstaller | A Journey into Decompiling Python Executables - https://archive.ph/JBk8v
+- Pyinstaller Reverse Engineering - https://archive.ph/X6H9j
+- pydumpck 1.20.1 - https://archive.ph/GnsXw
+
+### Scattered Spider
+- Defending Against SCATTERED SPIDER and The Com with Cybercrime Intelligence
+https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
+- Alleged Scattered Spider SIM-swapper must pay back $13.2M to 59 victims - https://archive.ph/Sa7J6
+- Another teenage hacker charged as feds continue Scattered Spider crackdown - https://archive.ph/kRjS9
+- Threat Group Assessment: Muddled Libra - https://archive.ph/3UKvX
+- Scattered Spider x RansomHub: A New Partnership - https://archive.ph/AQH0a
+- Scattered Spider laying new eggs - https://archive.ph/r1kte
+- A Closer Look at the LAPSUS$ Data Extortion Group - https://archive.ph/7I9V0
+Meet Lapsus$: An Unusual Group in the Cyber Extortion Business - https://archive.ph/wip/hITkZ
+- A New Threat Actor Group Emerges: Understanding Lapsus$ - https://archive.ph/wip/w35q2
+- Who Is the LAPSUS$ Group? - https://archive.ph/wip/YMJRM
+- Unveiling the Tactics of Lapsus$: A Review of Internal Attacks Vectors, Mobile Device Exploitation, and Social Engineering Techniques - https://archive.ph/vocOx
+- Threat Brief: Lapsus$ Group - https://archive.ph/JP8vj
+- Brazen, Unsophisticated and Illogical: Understanding the LAPSUS$ Extortion Group - https://archive.ph/RAO7s
+- Scattered Spider Escalates Attacks on Financial Services Cloud Environments - https://archive.ph/gMi2L
+- Scattered Spider, Oktapus, UNC3944, Scatter Swine – MGM Resorts Compromise - https://archive.ph/MFBwh
+- Ransomware in the Cloud: Scattered Spider Targeting Insurance and Financial Industries - https://archive.ph/L9T8s
+- SCATTERED SPIDER Exploits Windows Security Deficiencies with Bring-Your-Own-Vulnerable-Driver Tactic in Attempt to Bypass Endpoint Security - https://archive.ph/qBs0Z
+- LAPSUS$ aka Scattered Spider: Threat Card and Dossiers - https://archive.ph/4xkvH
+- The Original APT: Advanced Persistent Teenagers - https://archive.ph/ANdaB
+- How Discord is Abused for Cybercrime - https://archive.ph/WA0U3
+- Scattered Spider is a Young Ransomware Gang Exploiting Large Corporations - https://archive.ph/fHSyY
+- Why Are You Texting Me? UNC3944 Leverages SMS Phishing Campaigns for SIM Swapping, Ransomware, Extortion, and Notoriety - https://archive.ph/8Qsl6
+- Unmasking Phishing: Strategies for identifying 0ktapus domains and beyond - https://archive.ph/MzFcN
+- 5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme - https://archive.ph/bjvio
