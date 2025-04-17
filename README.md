@@ -1,7 +1,7 @@
 # Links-Repository
 
 
-### Other
+## Other
 - Mafia-Aided Scheme Evades Millions in Gas Taxes - https://archive.ph/YcGNG
 - Cyberbanging: Street Gangs Employ Social Media As A Recruiting Tool - https://archive.ph/iNlyB
 - Hoping to revive mammoths, scientists create 'woolly mice' - https://archive.ph/9yFJH
@@ -35,7 +35,7 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - Neanderthals and early Homo sapiens buried their dead differently, study suggests - https://archive.ph/M4AZk
 - We’re closer to re-creating the sounds of Parasaurolophus - https://archive.ph/7LzWt
 
-### DefCon Talks
+## DefCon Talks
 - DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling - https://www.youtube.com/watch?v=vcAHbvTlpKA
 - DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets - https://www.youtube.com/watch?v=0QT4YJn7oVI
 - Defcon 21 - How my Botnet Purchased Millions of Dollars in Cars and Defeated the Russian Hackers - https://www.youtube.com/watch?v=sgz5dutPF8M
@@ -62,12 +62,12 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend - https://www.youtube.com/watch?v=fWk_rMQiDGc
 - DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor - https://www.youtube.com/watch?v=01oeaBb85Xc
 
-### Arrests and takedowns
+## Arrests and takedowns
 - Spain arrests suspected hacker of US and Spanish military agencies - https://archive.ph/Y4Y1d
 - 
-### Troubleshooting
+## Troubleshooting
 
-### Binary Exploitation
+## Binary Exploitation
 - Introduction to x64 Buffer overflow - https://archive.ph/RiMm7
 - Introduction to Binary Exploitation- Exploiting buffer overflows - https://archive.ph/9WcLY
 - De Bruijn Sequences - https://archive.ph/aK5zK
@@ -75,7 +75,7 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - Exploiting Buffer Overflow Vulnerabilities: A Step-by-Step Guide (Part 2) - https://archive.ph/Qticx
 - Overflow Vulnerabilities - https://archive.ph/BHML6
 
-### Threat Reports
+## Threat Reports
 - Kiteshield Packer is Being Abused by Linux Cyber Threat Actors - https://archive.ph/FjHPC
 - Inside BRUTED: Black Basta (RaaS) Members Used Automated Brute Forcing Framework to Target Edge Network Devices - https://archive.ph/Ho3cZ
 - Modern Approach to Attributing Hacktivist Groups - https://archive.ph/wv5pS
@@ -321,7 +321,7 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - Malicious QR Codes: How big of a problem is it, really? - https://archive.ph/PcUei
 - A pernicious potpourri of Python packages in PyPI - https://archive.ph/OgJbQ
 
-### Hacking
+## Hacking
 - Hacking for Babies - https://hackingforbabies.gitbook.io/en/coming-soon
 - How to Find More IDORs - https://archive.ph/AJPJf
 - Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit - https://archive.ph/5EcY0
@@ -351,28 +351,28 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - What is Mimikatz? The Beginner's Guide - https://archive.ph/6fsVU
 - Wormable XSS www.bing.com - https://archive.ph/mz2QF
 
-### Hacking News
+## Hacking News
 - USDoD Hacker Behind $3 Billion SSN Leak Reveals Himself as Brazilian Citizen - https://archive.ph/uPdeD
 - Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack' - https://archive.ph/gBh2a
 
-### GitHub
+## GitHub
 - Snapshot of North Korea's DNS data taken from zone transfers - https://archive.ph/JziJP
 - Simple Windows and Linux keystroke injection tool that exfiltrates stored Wi-Fi data (SSID and password). - https://archive.ph/Of8WK
 
-### Cryptocurrency
+## Cryptocurrency
 - Wallet Scam: A Case Study in Crypto Drainer Tactics - https://archive.ph/5bSPh
 - How Chainalysis Made Their Way into Popular Monero Wallets - https://archive.ph/6zjNy
 - Dirty Tor exit to wallet.dat theft - https://archive.ph/5ERam
 
-### Dogs
+## Dogs
 - Scientists discover dogs are entering a new phase of evolution - https://archive.ph/ZoS6c
 
-### Study Guides & CTF
+## Study Guides & CTF
 - Jorkle's OSCP Guide - https://archive.ph/Ubz2J
 - DEFCON 28 OpenSOC Blue Team CTF: Lessons and Tips - https://archive.ph/vK9UN
 - Privilege Escalation - Windows - https://archive.ph/TRup0
 
-### Hacking Write Ups
+## Hacking Write Ups
 - Hacking Chess.com and Accessing 50 Million Customer Records - https://archive.ph/Y7VuW
 - Scanners Beware: Welcome to the Network from Hell - https://archive.ph/5kz10
 - Messenger Group Call DoS for iOS - https://archive.ph/FWJra
@@ -496,7 +496,7 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - AiTM Phishing, Hold the Gabagool: Analyzing the Gabagool Phishing Kit - https://archive.ph/XhPwZ
 - Leveling Up Fuzzing: Finding more vulnerabilities with AI - https://archive.ph/DDgjZ
 
-### Exploits / POC
+## Exploits / POC
 - CVE-2024-4879 and CVE-2024-5217 (ServiceNow RCE) Exploitation in a Global Reconnaissance Campaign - https://archive.ph/7b3GP
 - Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR - https://archive.ph/Z3Sa6
 - Traders' Dollars in Danger: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders - https://archive.ph/Jg2mY
@@ -505,7 +505,7 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - CVE-2024–25600: WordPress Bricks Builder Remote Code Execution Vulnerability -$$$$ BOUNTY - https://archive.ph/D6jTu
 - CVE-2024–0195 Improper Control of Generation of Code (‘Code Injection’) - https://archive.ph/46NEA
 
-### Forensic / Anti-forensic
+## Forensic / Anti-forensic
 - Awesome-anti-forensic - https://archive.ph/geEjb
 - Ethical hacking: Log tampering 101 - https://archive.ph/l0WN0
 - Post-exploitation tool to cover your tracks on a compromised machine (beta) - https://archive.ph/1JpfK
@@ -513,13 +513,13 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - How to Cover Your Tracks on a Linux System: An Ethical Hacker’s Guide - https://archive.ph/bIOuH
 - Covering tracks - https://archive.ph/ySO8Q
 
-### Service Hacking
+## Service Hacking
 - 25 TCP - Simple Mail Transfer Protocol (SMTP) - https://archive.ph/HjJrI
 - Pentest - Everything SMTP - https://archive.ph/8SQGt
 - A Beginner’s Guide to DNS Reconnaissance (Part 1) - https://archive.ph/hIavs
 - SQL Injection Polyglots - https://archive.ph/oQZbA
 
-### Active Directory
+## Active Directory
 - Forest: A walk through in hacking active directory - https://archive.ph/98zPl
 - Exploiting Active Directory Certificate Services - ESC11 Walkthrough - https://archive.ph/JBMmt
 - Active Directory Penetration Testing - The Fundamentals of Kerberos - https://archive.ph/Z8lcl
@@ -528,7 +528,7 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - Deploy an Active Directory Lab Within Minutes - https://archive.ph/8zqrE
 - Building A Basic Active Directory Lab - https://archive.ph/qwc7e
 
-### Ghidra
+## Ghidra
 - How to decompile external functions of *.so library in ELF with Ghidra? - https://archive.ph/58a3i
 - Using Ghidra to reverse engineer an exe file(crackme0x00.exe) in Kali Linux - https://archive.ph/H0tZI
 - How to Use Ghidra to Reverse Engineer Malware - https://archive.ph/sscMs
@@ -561,12 +561,12 @@ https://archive.ph/YosPs
 - Reversing C++ Virtual Functions: Part 1 - https://archive.ph/OmwJg
 - Part 2: Reverse Engineering and Patching with Ghidra - https://archive.ph/lE94j
 
-### Reverse Engineering
+## Reverse Engineering
 - Secret inside of .so file - https://archive.ph/wDvSV
 - Reversing Native Libraries | HackTricks - https://archive.ph/nrhKu
 - Intro to Android mobile reverse engineering - https://archive.ph/WyaAY
 
-### Web Hacking
+## Web Hacking
 - http-request-smuggling - https://archive.ph/l5TFr
 - Top 10 web hacking techniques of 2024 - https://archive.ph/dRWMH
 - WordPress User Enumeration - https://archive.ph/bMhQj
@@ -586,7 +586,7 @@ https://archive.ph/YosPs
 - Vulnerabilities in Open Source C2 Frameworks - https://archive.ph/OFcm3
 - How I Hacked 40 Websites in 7 minutes - https://archive.ph/mBRHG
 
-### Malware
+## Malware
 - Gootloader C2 Sails to New Hoster (and new URL)
 https://archive.ph/W0usB
 RansomHub Affiliate leverages Python-based backdoor
@@ -664,11 +664,11 @@ execution capability - https://archive.ph/IW9vp
 - Finding Malware: Detecting GOOTLOADER with Google Security Operations. - https://archive.ph/ODziW
 - BianLian Ransomware Group: 2024 Activity Analysis - https://archive.ph/YA9Sj
 
-### Stocks
+## Stocks
 - How to Pick Stocks: Fundamentals vs. Technical - https://archive.ph/gq2b8
 - Top Wall Street analysts pick these 3 dividend stocks for higher returns - https://archive.ph/ebsT1
 
-### AI
+## AI
 - Machine Learning to identify malicious strings in a file - https://archive.ph/BJthZ
 - Conducting Robust Learning for Empire Command and Control Detection - https://archive.ph/9UMvG
 - Harnessing LLMs for Automating BOLA Detection - https://archive.ph/wQvAk
@@ -683,7 +683,7 @@ execution capability - https://archive.ph/IW9vp
 - Tracing Ransomware Threat Actors Through Stylometric Analysis and Chat Log Examination - https://archive.ph/J9F96
 - Which Doors Are Open: Reinforcement Learning-based Internet-wide Port Scanning - https://archive.ph/5thbR
 
-### Ruby
+## Ruby
 - Ruby ERB Template Injectionm- https://archive.ph/dNrqn
 - Attacking Ruby on Rails Applications - https://archive.ph/lrG5Y
 - Class, Object and Module Hierarchy - https://archive.ph/64u08
@@ -698,7 +698,7 @@ execution capability - https://archive.ph/IW9vp
 - Introducing Afl-Ruby: fuzz your Ruby programs using afl - https://archive.ph/W6xFo
 - A coverage-guided fuzzer for pure Ruby code and Ruby C extensions - https://archive.ph/Rdi2l
 
-### Awesome List
+## Awesome List
 - Awesome AWS S3 Security - https://archive.ph/AIecx
 - Awesome Android Reverse Engineering - https://archive.ph/nOieD
 - A curated list of free courses & certifications. - https://archive.ph/vYTKF
@@ -717,7 +717,7 @@ execution capability - https://archive.ph/IW9vp
 - 🐶 A curated list of Web Security materials and resources. - https://archive.ph/8Qjtm
 - A list of AI autonomous agents - https://archive.ph/VPGQ6
 
-### Python
+## Python
 Over 100 Malicious Packages Target Popular ML PyPi Libraries - https://archive.ph/Mbvka
 - Introduction to stylometry with Python - https://archive.ph/xnGYe
 - Attacker Hidden in Plain Sight for Nearly Six Months, Targeting Python Developers - https://archive.ph/ICjp6
@@ -735,7 +735,7 @@ Over 100 Malicious Packages Target Popular ML PyPi Libraries - https://archive.p
 - Pyinstaller Reverse Engineering - https://archive.ph/X6H9j
 - pydumpck 1.20.1 - https://archive.ph/GnsXw
 
-### Scattered Spider
+## Scattered Spider
 - Defending Against SCATTERED SPIDER and The Com with Cybercrime Intelligence
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 - Alleged Scattered Spider SIM-swapper must pay back $13.2M to 59 victims - https://archive.ph/Sa7J6
