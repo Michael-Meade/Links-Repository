@@ -163,3 +163,110 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - Meet the GoldenJackal APT group. Don’t expect any howls - https://archive.ph/9E2Sf
 - CloudWizard APT: the bad magic story goes on - https://archive.ph/eTJq9
 - Tomiris called, they want their Turla malware back - https://archive.ph/mZR7q
+- Following the Lazarus group by tracking DeathNote campaign - https://archive.ph/Tm3KR
+- Not just an infostealer: Gopuram backdoor deployed through 3CX supply chain attack - https://archive.ph/6zaS1
+- Bad magic: new APT found in the area of Russo-Ukrainian conflict - https://archive.ph/ZoAmT
+- Roaming Mantis implements new DNS changer in its malicious mobile app in 2022 - https://archive.ph/3x4cG
+- BlueNoroff introduces new methods bypassing MoTW - https://archive.ph/7PS53
+- Ransomware and wiper signed with stolen certificate - https://archive.ph/N1SRN
+- DeathStalker targets legal entities with new Janicab variant - https://archive.ph/0e5VL
+- APT10: Tracking down LODEINFO 2022, part II - https://archive.ph/PSZIs
+- APT10: Tracking down LODEINFO 2022, part I - https://archive.ph/NNFG4
+- DiceyF deploys GamePlayerFramework in online casino development studio - https://archive.ph/u6dDt
+- Fortune 1000 at risk: How we discovered 30k exposed APIs & 100k API vulnerabilities in the world’s largest organizations - https://archive.ph/lLWl4
+- DeftTorero: tactics, techniques and procedures of intrusions revealed - https://archive.ph/dDrN3
+- Kimsuky’s GoldDragon cluster and its C2 operations - https://archive.ph/PMDfO
+- VileRAT: DeathStalker’s continuous strike at foreign and cryptocurrency exchanges - https://archive.ph/eOACn
+- Andariel deploys DTrack and Maui ransomware - https://archive.ph/QhBaY
+- Targeted attack on industrial enterprises and public institutions - https://archive.ph/lFFBl
+- CosmicStrand: the discovery of a sophisticated UEFI firmware rootkit - https://archive.ph/2JIvi
+- The SessionManager IIS backdoor - https://archive.ph/UCMzD
+- WinDealer dealing on the side - https://archive.ph/Zez7q
+- EastWind campaign: new CloudSorcerer attacks on government organizations in Russia - https://archive.ph/pbBpa
+- Lazarus Trojanized DeFi app for delivering malware - https://archive.ph/62BNZ
+- MoonBounce: the dark side of UEFI firmware - https://archive.ph/jE152
+- The BlueNoroff cryptocurrency hunt is still on - https://archive.ph/iqYvT
+- ScarCruft surveilling North Korean defectors and human rights activists - https://archive.ph/X7Kk6
+- WIRTE’s campaign in the Middle East ‘living off the land’ since at least 2019 - https://archive.ph/DD8hf
+- Unearthing APT44: Russia’s Notorious Cyber Sabotage Unit Sandworm - https://archive.ph/Zl6QY
+- Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology - https://archive.ph/Ri4w2
+- A Decade of Sandworm: Digging into APT44’s Past and Future - https://archive.ph/XUYgi
+- New North Korean Campaigns Target Cryptocurrency Industry - https://archive.ph/oGeTe
+- Magic Hound Campaign Attacks Saudi Targets - https://archive.ph/xiuz2
+- Meow, Meow Leaks, and the Chaos of Ransomware Attribution - https://archive.ph/SqGpa
+- Conti Ransomware: Inside One of the World’s Most Aggressive Ransomware Groups - https://archive.ph/uIqKt
+- Conti Ransomware Gang Has Full Log4Shell Attack Chain - https://archive.ph/xvVe6
+- Disgruntled Affiliate Reveals Conti Ransomware Attack Techniques - https://archive.ph/XAswr
+- GhostEmperor: From ProxyLogon to kernel mode - https://archive.ph/gpM3F
+- DarkHalo after SolarWinds: the Tomiris connection - https://archive.ph/4IZ3v
+- LuminousMoth APT: Sweeping attacks for the chosen few - https://archive.ph/9Vkee
+- WildPressure targets the macOS platform - https://archive.ph/vr2o5
+- Ferocious Kitten: 6 years of covert surveillance in Iran - https://archive.ph/q3g5e
+- Andariel evolves to target South Korea with ransomware - https://archive.ph/RJqef 
+- PuzzleMaker attacks with Chrome zero-day exploit chain - https://archive.ph/ItNcF
+- Operation TunnelSnake - https://archive.ph/4nYU5
+- The leap of a Cycldek-related threat actor - https://archive.ph/A39by
+- APT10: sophisticated multi-layered loader Ecipekac discovered in A41APT campaign - https://archive.ph/GedUy
+- Lazarus targets defense industry with ThreatNeedle - https://archive.ph/ZYyg8
+- Sunburst backdoor – code overlaps with Kazuar - https://archive.ph/jDKO1
+- Lazarus covets COVID-19-related intelligence - https://archive.ph/jRLOZ
+- Sunburst: connecting the dots in the DNS requests - https://archive.ph/IHPwu
+- What did DeathStalker hide between two ferns? - https://archive.ph/No4Eg
+- IAmTheKing and the SlothfulMedia malware family - https://archive.ph/uZ8U5
+- MontysThree: Industrial espionage with steganography and a Russian accent on both sides - https://archive.ph/jhF14
+- MosaicRegressor: Lurking in the Shadows of UEFI - https://archive.ph/er2xC
+- Transparent Tribe: Evolution analysis, part 2 - https://archive.ph/2Xcur
+- Lifting the veil on DeathStalker, a mercenary triumvirate - https://archive.ph/BPNER
+- Transparent Tribe: Evolution analysis, part 1 - https://archive.ph/X0EuG
+- Lazarus on the hunt for big game - https://archive.ph/zysTE
+- MATA: Multi-platform targeted malware framework - https://archive.ph/rdgVJ
+- Microcin is here - https://archive.ph/NfgHc
+- Cycldek: Bridging the (air) gap - https://archive.ph/L0VIP
+- The zero-day exploits of Operation WizardOpium - https://archive.ph/g3gGL
+- COMpfun authors spoof visa application with HTTP status-based Trojan - https://archive.ph/pdzxq
+- Naikon’s Aria - https://archive.ph/bNiYv
+- Hiding in plain sight: PhantomLance walks into a market - https://archive.ph/6ET1E
+- Holy water: ongoing targeted water-holing attack in Asia - https://archive.ph/kBdy9
+- iOS exploit chain deploys LightSpy feature-rich malware - https://archive.ph/tfQE5
+- WildPressure targets industrial-related entities in the Middle East - https://archive.ph/w3AHo
+- Operation AppleJeus Sequel - https://archive.ph/tj1IP
+- OilRig’s Poison Frog – old samples, same trick - https://archive.ph/OcUrH
+- RevengeHotels: cybercrime targeting hotel front desks worldwide - https://archive.ph/nXC6a
+- Titanium: the Platinum group strikes again - https://archive.ph/XJllz
+- DarkUniverse – the mysterious APT framework #27 - https://archive.ph/dywEs
+- COMpfun successor Reductor infects files on the fly to compromise TLS traffic - https://archive.ph/anLhw
+- Turla renews its arsenal with Topinambour - https://archive.ph/LaGch
+- ‘Twas the night before - https://archive.ph/b25nE
+- ViceLeaker Operation: mobile espionage targeting Middle East - https://archive.ph/CvQ69 
+- Hello again, FakeBat: popular loader returns after months-long hiatus - https://archive.ph/uefkT 
+- Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and MacOS Backdoors - https://archive.ph/6zZ7y
+- Threat Actor Distributes Python-Based Information Stealer Using a Fake Falcon Sensor Update Lure - https://archive.ph/j9Nk3
+- Lumma Stealer on the Rise: How Telegram Channels Are Fueling Malware Proliferation - https://archive.ph/Khjlr
+- Massive MOVEit Vulnerability Breach: Hacker Leaks Employee Data from Amazon, McDonald’s, HSBC, HP, and Potentially 1000+ Other Companies - https://archive.ph/afcEh
+- Schneider Electric Hacked and Blackmailed Following Lumma Infostealer Infection - https://archive.ph/Cm7hg
+- The Google 0-day all Infostealer groups are exploiting. - https://archive.ph/WK5MK
+- Breaking Down Earth Estries' Persistent TTPs in Prolonged Cyber Operations - https://archive.ph/VxNCt
+- Life on a crooked RedLine: Analyzing the infamous infostealer’s backend - https://archive.ph/PKHZW
+- How AitM phishing kits evade detection - https://archive.ph/NTWuE
+- How AitM phishing kits evade detection: Part 2 - https://archive.ph/Ifqzc
+- Hamas-affiliated Threat Actor WIRTE Continues its Middle East Operations and Moves to Disruptive Activity - https://archive.ph/rqPLB
+- TeamTNT’s Docker Gatling Gun Campaign - https://archive.ph/z7y8I
+- Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes - https://archive.ph/5mpnr
+- TeamTNT Returns — Or Does It? - https://archive.ph/hbpFv
+- Cryptojacking Gang TeamTNT Makes a Comeback - https://archive.ph/EqGY7
+- TeamTNT Targets Kubernetes, Nearly 50,000 IPs Compromised in Worm-like Attack - https://archive.ph/Yfgci
+- The Real Cost of Cryptomining: Adversarial Analysis of TeamTNT - https://archive.ph/17baI
+- Attackers Abusing Legitimate Cloud Monitoring Tools to Conduct Cyber Attacks - https://archive.ph/uzLxN
+- Chaos is a Go-based Swiss army knife of malware - https://archive.ph/6FGsw
+- Kinsing & Dark.IoT botnet among threats targeting CVE-2022-26134 - https://archive.ph/zxea3
+- Necro Python Botnet Goes After Vulnerable VisualTools DVR - https://archive.ph/svH8g
+- Python Cryptominer Botnet Quickly Adopts Latest Vulnerabilities - https://archive.ph/r5WrK
+- DreamBus Botnet Resurfaces, Targets RocketMQ vulnerability - https://archive.ph/XAinA
+- DreamBus Botnet – Technical Analysis - https://archive.ph/KJxHq
+- Modus Operandi of Ruthless Mantis - https://archive.ph/qijts
+- Malware analysis: Hands-On Shellbot malware - https://archive.ph/sWLzr
+- Solving the 7777 Botnet enigma: A cybersecurity quest - https://archive.ph/26NfR
+- Gitpaste-12: a new worming botnet with reverse shell capability spreading via GitHub and Pastebin - https://archive.ph/kiGeP
+- Unit 42 Finds New Mirai and Gafgyt IoT/Linux Botnet Campaigns - https://archive.ph/9oIO8
+- Malicious QR Codes: How big of a problem is it, really? - https://archive.ph/PcUei
+- A pernicious potpourri of Python packages in PyPI - https://archive.ph/OgJbQ
