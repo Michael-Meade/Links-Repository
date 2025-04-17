@@ -4,3 +4,162 @@
 ### Other
 - Mafia-Aided Scheme Evades Millions in Gas Taxes - https://archive.ph/YcGNG
 - Cyberbanging: Street Gangs Employ Social Media As A Recruiting Tool - https://archive.ph/iNlyB
+- Hoping to revive mammoths, scientists create 'woolly mice' - https://archive.ph/9yFJH
+- This is your brain. This is your brain on code - https://archive.ph/XSoyM
+
+### DefCon Talks
+- DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling - https://www.youtube.com/watch?v=vcAHbvTlpKA
+- DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets - https://www.youtube.com/watch?v=0QT4YJn7oVI
+- Defcon 21 - How my Botnet Purchased Millions of Dollars in Cars and Defeated the Russian Hackers - https://www.youtube.com/watch?v=sgz5dutPF8M
+
+### Arrests and takedowns
+- Spain arrests suspected hacker of US and Spanish military agencies - https://archive.ph/Y4Y1d
+- 
+### Troubleshooting
+
+### Binary Exploitation
+- Introduction to x64 Buffer overflow - https://archive.ph/RiMm7
+- Introduction to Binary Exploitation- Exploiting buffer overflows - https://archive.ph/9WcLY
+- De Bruijn Sequences - https://archive.ph/aK5zK
+- Buffer Overflow - https://archive.ph/kfvbz
+- Exploiting Buffer Overflow Vulnerabilities: A Step-by-Step Guide (Part 2) - https://archive.ph/Qticx
+- Overflow Vulnerabilities - https://archive.ph/BHML6
+
+### Threat Reports
+- Kiteshield Packer is Being Abused by Linux Cyber Threat Actors - https://archive.ph/FjHPC
+- Inside BRUTED: Black Basta (RaaS) Members Used Automated Brute Forcing Framework to Target Edge Network Devices - https://archive.ph/Ho3cZ
+- Modern Approach to Attributing Hacktivist Groups - https://archive.ph/wv5pS
+- JSPSpy and ‘filebroser’: A Custom File Management Tool in Webshell Infrastructure - https://archive.ph/3vEg5
+- 8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur - https://archive.ph/pZoWe
+- One Step Ahead in Cyber Hide-and-Seek: Automating Malicious Infrastructure Discovery With Graph Neural Networks - https://archive.ph/UJOkr
+- Malone Iam and His Accomplices Arrested in $243M Crypto Hack - https://archive.ph/6mItE
+- What I’ve learned in my first 7-ish years in cybersecurity   - https://archive.ph/6BIxJ
+- Supply Chain Lessons from Thousands of Exploding Pagers      - https://archive.ph/A600i
+- Snowblind: The Invisible Hand of Secret Blizzard             - https://archive.ph/GRTIq
+- One Sock Fits All: The use and abuse of the NSOCKS botnet    - https://archive.ph/zD755
+- Writing a BugSleep C2 server and detecting its traffic with Snort - https://archive.ph/xr2ht
+- Social Media Malvertising Campaign Promotes Fake AI Editor Website for Credential Theft - https://archive.ph/WzkhB
+- RUBYCARP: A Detailed Analysis of a Sophisticated Decade-Old Botnet Group - https://archive.ph/dZp5m
+- Turning Jenkins Into a Cryptomining Machine From an Attacker's Perspective - https://archive.ph/dEkhQ
+- Unpacking the Blackjack Group's Fuxnet Malware - https://archive.ph/mIOhL
+- Play Ransomware Group’s New Linux Variant Targets ESXi, Shows Ties With Prolific Puma - https://archive.ph/cdfr0
+- A Dive into Earth Baku’s Latest Campaign - https://archive.ph/r2GBL
+- Cryptojacking via CVE-2023-22527: Dissecting a Full-Scale Cryptomining Ecosystem - https://archive.ph/TiRrT
+- Earth Lusca Uses KTLVdoor Backdoor for Multiplatform Intrusion - https://archive.ph/kAi0E
+- Game of Emperor: Unveiling Long Term Earth Estries Cyber Intrusions - https://archive.ph/XHct7
+- Using gRPC and HTTP/2 for Cryptominer Deployment: An Unconventional Approach - https://archive.ph/V9SSI
+- Attackers Target Exposed Docker Remote API Servers With perfctl Malware - https://archive.ph/K7OC4
+- Fake LockBit, Real Damage: Ransomware Samples Abuse Amazon S3 to Steal Data - https://archive.ph/0LJNt
+- Malicious JavaScript Injection Campaign Infects 51k Websites - https://archive.ph/dELaK
+- Vice Society: A Tale of Victim Data Exfiltration via PowerShell, aka Stealing off the Land - https://archive.ph/T6FSh
+- CryptoClippy Speaks Portuguese - https://archive.ph/QUl91
+- Over the Kazuar’s Nest: Cracking Down on a Freshly Hatched Backdoor Used by Pensive Ursa (Aka Turla) - https://archive.ph/PNXph
+- Teasing the Secrets From Threat Actors: Malware Configuration Parsing at Scale - https://archive.ph/yCnNu
+- Detecting Popular Cobalt Strike Malleable C2 Profile Techniques - https://archive.ph/miiD6
+- Six Malicious Python Packages in the PyPI Targeting Windows Users - https://archive.ph/wip/2Cdey
+- P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm - https://archive.ph/dymhm
+- Ransomware Delivery URLs: Top Campaigns and Trends - https://archive.ph/YBOsv
+- NodeStealer 2.0 – The Python Version: Stealing Facebook Business Accounts - https://archive.ph/VMyuM
+- CL0P Seeds ^_- Gotta Catch Em All! - https://archive.ph/PiFNI
+ - Blocking Dedicated Attacking Hosts Is Not Enough: In-Depth Analysis of a Worldwide Linux XorDDoS Campaign - https://archive.ph/HKme3
+- Understanding DNS Tunneling Traffic in the Wild - https://archive.ph/pRxT8
+- CloudKeys in the Air: Tracking Malicious Operations of Exposed IAM Keys - https://archive.ph/vbrKA
+- In-Depth Analysis of July 2023 Exploit Chain Featuring CVE-2023-36884 and CVE-2023-36584 - https://archive.ph/lAwFS
+- Chinese APT Targeting Cambodian Government - https://archive.ph/nQ0Sy
+- Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains- https://archive.ph/tnu3T
+- Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors - https://archive.ph/0Q2lk
+- ApateWeb: An Evasive Large-Scale Scareware and PUP Delivery Campaign - https://archive.ph/4aUxL
+- Tackling Anti-Analysis Techniques of GuLoader and RedLine Stealer - https://archive.ph/CQA1N
+- Why Is an Australian Footballer Collecting My Passwords? The Various Ways Malicious JavaScript Can Steal Your Secrets - https://archive.ph/tGd8f
+- Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled - https://archive.ph/qYtEG
+- Intruders in the Library: Exploring DLL Hijacking - https://archive.ph/OStQt
+- Diving Into Glupteba's UEFI Bootkit - https://archive.ph/0acO7
+- The Art of Domain Deception: Bifrost's New Tactic to Deceive Users - https://archive.ph/6bU0H
+- Unit 42 Collaborative Research With Ukraine’s Cyber Agency To Uncover the Smoke Loader Backdoor - https://archive.ph/RfZZj
+- Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target  governmental Entities in the Middle East, Africa and Asia - https://archive.ph/esX86
+- Large-Scale StrelaStealer Campaign in Early 2024 - https://archive.ph/E2MVl
+- Threat Assessment: Repellent Scorpius, Distributors of Cicada3301 Ransomware - https://archive.ph/Wd6UC
+- Autoencoder Is All You Need: Profiling and Detecting Malicious DNS Traffic - https://archive.ph/uLbyW
+- Phishing Pages Delivered Through Refresh HTTP Response Header - https://archive.ph/S97g0
+- Investigating Infrastructure and Tactics of Phishing-as-a-Service Platform Sniper Dz - https://archive.ph/542lW
+- TA Phone Home: EDR Evasion Testing Reveals Extortion Actor's Toolkit - https://archive.ph/dfEPf
+- FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and Network Communications - https://archive.ph/KuyvJ
+- Fighting Ursa Luring Targets With Car for Sale - https://archive.ph/pECms
+- From RA Group to RA World: Evolution of a Ransomware Group - https://archive.ph/SpISo
+- Mass-spreading campaign targeting Zimbra users - https://archive.ph/FCFBa
+- The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access - https://archive.ph/Xl0s6
+- Linux malware strengthens links between Lazarus and the 3CX supply-chain attack - https://archive.ph/AWEcU
+- Asylum Ambuscade: crimeware or cyberespionage? - https://archive.ph/IKxC5
+- What’s up with Emotet? - https://archive.ph/mdSuf
+- MoustachedBouncer: Espionage against foreign diplomats in Belarus - https://archive.ph/EU9kf
+- Telekopye: Hunting Mammoths using Telegram bot - https://archive.ph/sobAi
+- OilRig’s Outer Space and Juicy Mix: Same ol’ rig, new drill pipes - https://archive.ph/cLEBj
+- Stealth Falcon preying over Middle Eastern skies with Deadglyph - https://archive.ph/cLEBj
+- Operation King TUT: The universe of threats in LATAM - https://archive.ph/nlZoY
+- Unlucky Kamran: Android malware spying on Urdu-speaking residents of Gilgit-Baltistann - https://archive.ph/YUX3P
+- Telekopye: Chamber of Neanderthals’ secrets - https://archive.ph/9asu0
+Initial access broker repurposing techniques in targeted attacks against Ukraine - https://archive.ph/ungoq
+- HotPage: Story of a signed, vulnerable, ad-injecting driver - https://archive.ph/v7c9m
+- The Dangers of Broken Links: How They Can Threaten Your Cybersecurity - https://archive.ph/YX1L4
+- Insecurity through Censorship: Vulnerabilities Caused by The Great Firewall - https://archive.ph/h5dCN
+- ESET takes part in global operation to disrupt the Grandoreiro banking trojan - https://archive.ph/difAB
+- OilRig’s persistent attacks using cloud service-powered downloaders - https://archive.ph/UiLFZ
+- NSPX30: A sophisticated AitM-enabled implant evolving since 2005 - https://archive.ph/6DV82
+- Cutting Edge, Part 2: Investigating Ivanti Connect Secure VPN Zero-Day Exploitation - https://archive.ph/tuaHr
+- Mid-year Doppelgänger information operations in Europe and the US - https://archive.ph/xvZoJ
+- The new era of hacktivism: state-organized hacktivism spreads with Russian-Ukrainian tensions - https://archive.ph/GbL1J
+- From fun to data loss: the dark side of Facebook quizzes - https://archive.ph/PJYoH
+- Pacific Rim: Inside the Counter-Offensive—The TTPs Used to Neutralize China-Based Threats https://archive.ph/li3fp
+- Russian Military Cyber Actors Target U.S. and
+- Global Critical Infrastructure - https://archive.ph/d5fIK
+- North Korean hacker BlueNoroff targets crypto firms with new malware - https://archive.ph/OhDoy
+- As Hacker Gives Stolen Data Away, Nokia Issues New Denial Statement - https://archive.ph/Sh2aB
+- New Password Hack Attack—LastPass, Chrome, Facebook, Netflix, PayPal Users At Risk - https://archive.ph/luLCT
+- Chinese Group Accused of Hacking Singtel in Telecom Attacks
+https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.html?guccounter=2
+- CosmicBeetle steps up: Probation period at RansomHub - https://archive.ph/AVPOY
+- Hackers Are Using Police Emails to Send Tech Companies Fraudulent Data Requests - https://archive.ph/MQWUd
+- 'SteelFox' Malware Blitz Infects 11K Victims With Bundle of Pain - https://archive.ph/Z1wzA
+- Custom "Pygmy Goat" malware used in Sophos Firewall hack on govt network - https://archive.ph/sXpnU
+- Lateral Movement on macOS: Unique and Popular Techniques and In-the-Wild Examples - https://archive.ph/LgVEU
+- To the Moon and back(doors): Lunar landing in diplomatic missions - https://archive.ph/XI6cD
+- Ebury is alive but unseen: 400k Linux servers compromised for cryptocurrency theft and financial gain - https://archive.ph/JMztq
+- Operation Texonto: Information operation targeting Ukrainian speakers in the context of the war - https://archive.ph/HdchT
+- Rescoms rides waves of AceCryptor spam - https://archive.ph/h3Opq
+- eXotic Visit campaign: Tracing the footprints of Virtual Invaders - https://archive.ph/BjiIy
+- Arid Viper poisons Android apps with AridSpy - https://archive.ph/NXxo0
+- Cursed tapes: Exploiting the EvilVideo vulnerability on Telegram for Android - https://archive.ph/Zpslg
+- NGate Android malware relays NFC traffic to steal cash - https://archive.ph/mAeM6
+- Analysis of two arbitrary code execution vulnerabilities affecting WPS Office - https://archive.ph/KK1ri
+- Hundreds of code libraries posted to NPM try to install malware on dev machines - https://archive.ph/dI4jv
+- IcePeony and Transparent Tribe Target Indian Entities with Cloud-Based Tools - https://archive.ph/iBp2f
+- Malvertising Campaign Hijacks Facebook Accounts to Spread SYS01stealer Malware - https://archive.ph/T9erd
+- North Korean Hackers Use Fake News to Spread ‘Hidden Risk’ Malware - https://archive.ph/IlsL8
+- Malware campaign expands its use of fake CAPTCHAs - https://archive.ph/vFhm5
+- The Evolution of Transparent Tribe’s New Malware - https://archive.ph/vFhm5
+- The Muddy Waters of APT Attacks - https://archive.ph/d2KvP
+- Muddying the Water: Targeted Attacks in the Middle East - https://archive.ph/qdD6O
+- Threat Actors Muddy Waters in Middle East with APT Hijacks and Fake Leaks in Q2 2019 - https://archive.ph/0K6X4
+- I know what you did last summer, MuddyWater blending in the crowd - https://archive.ph/NMcuF
+- Wading Through Muddy Waters | Recent Activity of an Iranian State-Sponsored Threat Actor - https://archive.ph/FJHye
+- Catching fish in muddy waters - https://archive.ph/gFvzv
+- New BugSleep Backdoor Deployed in Recent MuddyWater Campaigns - https://archive.ph/5R8Pd
+- ToddyCat is making holes in your infrastructure - https://archive.ph/7m2q9
+- DuneQuixote campaign targets Middle Eastern entities with “CR4T” malware - https://archive.ph/7m2q9
+- Women In Russian-Speaking Cybercrime: Mythical Creatures or Significant Members of Underground? - https://archive.ph/boRbk
+- A cascade of compromise: unveiling Lazarus’ new campaign - https://archive.ph/lPuj9
+- StripedFly: Perennially flying under the radar - https://archive.ph/PFDWR
+- Beyond the Surface: the evolution and expansion of the SideWinder APT group - https://archive.ph/2v9ZG
+- HrServ – Previously unknown web shell used in APT attack - https://archive.ph/nviEs
+- The Crypto Game of Lazarus APT: Investors vs. Zero-days - https://archive.ph/xgdeP
+- Awaken Likho is awake: new techniques of an APT group - https://archive.ph/xIBya
+- Finding a needle in a haystack: Machine learning at the forefront of threat hunting research - https://archive.ph/NDm9b
+- Tropic Trooper spies on government entities in the Middle East - https://archive.ph/JRY86
+- A deep dive into the most interesting incident response cases of last year - https://archive.ph/qUdzT
+- BlindEagle flying high in Latin America - https://archive.ph/smuw5
+- CloudSorcerer – A new APT targeting Russian government entities - https://archive.ph/7naP9
+- ToddyCat: Keep calm and check logs - https://archive.ph/FKLYx
+- Operation Triangulation: iOS devices targeted with previously unknown malware - https://archive.ph/ZPPKr
+- Meet the GoldenJackal APT group. Don’t expect any howls - https://archive.ph/9E2Sf
+- CloudWizard APT: the bad magic story goes on - https://archive.ph/eTJq9
+- Tomiris called, they want their Turla malware back - https://archive.ph/mZR7q
