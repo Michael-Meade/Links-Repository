@@ -1,5 +1,20 @@
 # Links-Repository
 
+## Archaeology
+- Like humans, chimps often perform tasks differently when crowds are watching - https://archive.ph/FyZbf
+- Meet the ancient 'big head' people: Scientists uncover a 'lost' human in Asia with an abnormally large skull that lived alongside homo sapiens 100,000 years ago - https://archive.ph/xhVSm
+- Humans and Neanderthals Lived Side by Side in Northern Europe 45,000 Years Ago, Study Finds - https://archive.ph/p3xOt
+- Thirteen Discoveries Made About Human Evolution in 2023 - https://archive.ph/dVbDG
+- Meet Homo Juluensis, Your New Big-Headed Ancient Ancestor - https://archive.ph/yUhyF
+- Scientists Discovered a New Human Species That Defies Conventional Wisdom - https://archive.ph/ZrNa5
+- Scientists generate the first complete chromosome sequences from non-human primates - https://archive.ph/ThPAZ
+- How an Ancient Human Species Formed Family Ties - https://archive.ph/x4rKx
+- 65,000-year-old hearth in Gibraltar may have been a Neanderthal 'glue factory,' study finds - https://archive.ph/mlqaW
+- The most ancient human genome yet has been sequenced—and it’s a Denisovan’s - https://archive.ph/8wuss
+- After 50 Years, Scientists Still Love Lucy - https://archive.ph/WdlXp
+- Neanderthals and early Homo sapiens buried their dead differently, study suggests - https://archive.ph/M4AZk
+- We're closer to re-creating the sounds of Parasaurolophus - https://archive.ph/7LzWt
+
 
 ## Other
 - Mafia-Aided Scheme Evades Millions in Gas Taxes - https://archive.ph/YcGNG
@@ -12,28 +27,16 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - In the Hood: Street Gangs Discover White-Collar Crime - https://archive.ph/9xSfZ
 - How the Mafia Is Pivoting to Cybercrime - https://archive.ph/AOEsR
 - Europol: Italian Mafia Tied to Cybercriminals Responsible for €10 Million in Cyberattacks - https://archive.ph/SxTEE
-- Scientists generate the first complete chromosome sequences from non-human primates - https://archive.ph/ThPAZ
 - Benjamin Franklin Printed Money With a Special Dye and Innovative Techniques to Thwart Counterfeiters, New Research Finds - https://archive.ph/b3JNt
-- Like humans, chimps often perform tasks differently when crowds are watching - https://archive.ph/FyZbf
-- Meet the ancient 'big head' people: Scientists uncover a 'lost' human in Asia with an abnormally large skull that lived alongside homo sapiens 100,000 years ago - https://archive.ph/xhVSm
-- Meet Homo Juluensis, Your New Big-Headed Ancient Ancestor - https://archive.ph/yUhyF
-- Scientists Discovered a New Human Species That Defies Conventional Wisdom - https://archive.ph/ZrNa5
-- How an Ancient Human Species Formed Family Ties - https://archive.ph/x4rKx
 - How Do People Who Are Blind or Visually Impaired Identify Money? - https://archive.ph/lwy6Z
-- The most ancient human genome yet has been sequenced—and it’s a Denisovan’s - https://archive.ph/8wuss
-- Thirteen Discoveries Made About Human Evolution in 2023 - https://archive.ph/dVbDG
-- Humans and Neanderthals Lived Side by Side in Northern Europe 45,000 Years Ago, Study Finds - https://archive.ph/p3xOt
 - Why Were There So Many Skeletons Hidden in Benjamin Franklin’s Basement? - https://archive.ph/yDKjU
 - Anticounterfeiting secrets of Benjamin Franklin’s paper money revealed - https://archive.ph/hQJwy
 - Ben Franklin Lives in Your Smartphone - https://archive.ph/LEHYG
 - Fact: Millennials Didn’t Invent Selfies—This Guy Did - https://archive.ph/2gTcp
 - Case Files: Nikola Tesla - https://archive.ph/R5nkb
 - Nikola Tesla and the Tower That Became His ‘Million Dollar Folly’ - https://archive.ph/R1QnZ
-- 65,000-year-old hearth in Gibraltar may have been a Neanderthal 'glue factory,' study finds - https://archive.ph/mlqaW
-- After 50 Years, Scientists Still Love Lucy - https://archive.ph/WdlXp
 - Venting Doesn't Reduce Anger, But Something Else Does, Study Shows - https://archive.ph/MCwAH
-- Neanderthals and early Homo sapiens buried their dead differently, study suggests - https://archive.ph/M4AZk
-- We’re closer to re-creating the sounds of Parasaurolophus - https://archive.ph/7LzWt
+
 
 ## DefCon Talks
 - DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling - https://www.youtube.com/watch?v=vcAHbvTlpKA
@@ -62,8 +65,24 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend - https://www.youtube.com/watch?v=fWk_rMQiDGc
 - DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor - https://www.youtube.com/watch?v=01oeaBb85Xc
 
+## Lulz Sec
+- The Dark Arts: Meet The LulzSec Hackers - https://archive.ph/9OPQg
+-  The Technology Snob’s Favorite Hacker Group - https://archive.ph/231hR
+- A timeline of hacking group LulzSec's attacks - https://archive.ph/b9fjK
+- Former Lulzsec hacker Jake Davis on his motivations - https://archive.ph/XGsXF
+- 50 days of Lulz: The life and times of LulzSec - https://archive.ph/qXV8w
+- Hackers attack another Sony network - https://archive.ph/ro80v
+- Inside LulzSec: Chatroom logs shine a light on the secretive hackers - https://archive.ph/rDyVT
+- Anonymous leaks FBI phone call discussing hacking investigations - https://archive.ph/uN5DQ
+- LulzSec Hackers Tied To Anonymous In Leaked Logs - https://archive.ph/VJQD6
+- Operation Anti-Security: LulzSec and Anonymous target banks and governments - https://archive.ph/BcxvD
+- Sony Pictures hacked and Database Leaked by LulzSec - https://archive.ph/ZJlBA
+- Hacker group LulzSec says it's done - https://archive.ph/lwQR8
+
 ## Arrests and takedowns
 - Spain arrests suspected hacker of US and Spanish military agencies - https://archive.ph/Y4Y1d
+- Lulzsec hacker group handed jail sentences - https://archive.ph/tV1rJ
+- Australia police arrest hacker group LulzSec 'leader' - https://archive.ph/wEdw4
 - 
 ## Troubleshooting
 
@@ -350,6 +369,26 @@ https://finance.yahoo.com/news/chinese-group-accused-hacking-singtel-041722621.h
 - Cross-site scripting - https://archive.ph/rnf2A
 - What is Mimikatz? The Beginner's Guide - https://archive.ph/6fsVU
 - Wormable XSS www.bing.com - https://archive.ph/mz2QF
+- Police Arrested Suspected Hacker Who Hacked the 'Hacking Team - https://archive.ph/RyC9h
+- Vigilante Hacker ‘Phineas Fisher’ Denies Working for the Russian Government - https://archive.ph/8Y9gI
+- How Hacking Team got hacked - https://archive.ph/zmpCp
+- Phineas Fisher Says They Paid $10,000 Bounty to Person Who Hacked Chilean Military - https://archive.ph/8Y9gI
+- Hacking Team Hacker Phineas Fisher Has Gotten Away With It - https://archive.ph/tc9SM
+- Brazil Arrests ‘USDoD,’ Hacker in FBI Infragard Breach - https://archive.ph/BCZWP
+- Hacker USDoD: “I don't pick sides. I play both sides and always win” – interview - https://archive.ph/8hWdx
+- Hacktivist Entity USDoD Claims to Have Leaked CrowdStrike’s Threat Actor List - https://archive.ph/sfrJw
+- Bling Libra’s Tactical Evolution: The Threat Actor Group Behind ShinyHunters Ransomware - https://archive.ph/8eRMw
+- Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake - https://archive.ph/Vhb9j
+- Crooks stole AWS credentials from misconfigured sites then kept them in open S3 bucket - https://archive.ph/4DUpm 
+- ShinyHunters claims Santander breach, selling data for 30M customers - https://archive.ph/ffiid
+- Ticketmaster Breach: ShinyHunters Leak 440K Taylor Swift Eras Tour Ticket Data - https://archive.ph/Gg8tX
+- Hackers leak alleged Taylor Swift tickets, amp up Ticketmaster extortion - https://archive.ph/fBPhe
+- ShinyHunters, Nemesis Linked to Hacks After Leaking Their AWS S3 Bucket - https://archive.ph/hXDqD
+- Hacker in Snowflake Extortions May Be a U.S. Soldier - https://archive.ph/UwZRE
+- Snowflake hackers identified and charged with stealing 50 billion AT&T records - https://archive.ph/GJD0Q
+- Alleged Snowflake hacker detained in Canada at DOJ's request - https://archive.ph/epxro
+- US indicts Snowflake hackers who extorted $2.5 million from 3 victims - https://archive.ph/yV9j1 
+
 
 ## Hacking News
 - USDoD Hacker Behind $3 Billion SSN Leak Reveals Himself as Brazilian Citizen - https://archive.ph/uPdeD
@@ -587,32 +626,19 @@ https://archive.ph/YosPs
 - How I Hacked 40 Websites in 7 minutes - https://archive.ph/mBRHG
 
 ## Malware
-- Gootloader C2 Sails to New Hoster (and new URL)
-https://archive.ph/W0usB
-RansomHub Affiliate leverages Python-based backdoor
-https://archive.ph/fg7ti
-LockBit Admins Tease a New Ransomware Version
-https://archive.ph/Kq3LZ
-Python-Based NodeStealer Version Targets Facebook Ads Manager
-https://archive.ph/dkkEp
-Rise of LNK (Shortcut files) Malware
-https://archive.ph/FitJ4
-Skuld Infostealer Returns to npm with Fake Windows Utilities and Malicious Solara Development Packages
-https://archive.ph/Jqaeo
-Phishing Campaigns featuring Ursnif Trojan on the Rise
-https://archive.ph/Ln48C
-HANCITOR DOC drops via CLIPBOARD
-https://archive.ph/1tda0
-Malicious PowerPoint Documents on the Rise
-https://archive.ph/UBMX8
-Android malware distributed in Mexico uses Covid-19 to steal financial credentials
-https://archive.ph/jDFeM
-GULoader Campaigns: A Deep Dive Analysis of a highly evasive Shellcode based loader
-https://archive.ph/VM4Rm
-HiddenAds Spread via Android Gaming Apps on Google Play
-https://archive.ph/TATqx
-Peeling Back the Layers of RemcosRat Malware
-https://archive.ph/TUNau
+- Gootloader C2 Sails to New Hoster (and new URL) - https://archive.ph/W0usB
+- RansomHub Affiliate leverages Python-based backdoor - https://archive.ph/fg7ti
+- LockBit Admins Tease a New Ransomware Version - https://archive.ph/Kq3LZ
+- Python-Based NodeStealer Version Targets Facebook Ads Manager - https://archive.ph/dkkEp
+- Rise of LNK (Shortcut files) Malware - https://archive.ph/FitJ4
+- Skuld Infostealer Returns to npm with Fake Windows Utilities and Malicious Solara Development Packages - https://archive.ph/Jqaeo
+- Phishing Campaigns featuring Ursnif Trojan on the Rise - https://archive.ph/Ln48C
+- HANCITOR DOC drops via CLIPBOARD - https://archive.ph/1tda0
+- Malicious PowerPoint Documents on the Rise - https://archive.ph/UBMX8
+- Android malware distributed in Mexico uses Covid-19 to steal financial credentials - https://archive.ph/jDFeM
+- GULoader Campaigns: A Deep Dive Analysis of a highly evasive Shellcode based loader - https://archive.ph/VM4Rm
+- HiddenAds Spread via Android Gaming Apps on Google Play - https://archive.ph/TATqx
+- Peeling Back the Layers of RemcosRat Malware - https://archive.ph/TUNau
 - Unmasking AsyncRAT New Infection Chain - https://archive.ph/4qP2Q
 - Distinctive Campaign Evolution of Pikabot Malware - https://archive.ph/EpWBd
 - PDF Phishing: Beyond the Bait - https://archive.ph/8XQZG
@@ -744,7 +770,7 @@ https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cy
 - Scattered Spider x RansomHub: A New Partnership - https://archive.ph/AQH0a
 - Scattered Spider laying new eggs - https://archive.ph/r1kte
 - A Closer Look at the LAPSUS$ Data Extortion Group - https://archive.ph/7I9V0
-Meet Lapsus$: An Unusual Group in the Cyber Extortion Business - https://archive.ph/wip/hITkZ
+- Meet Lapsus$: An Unusual Group in the Cyber Extortion Business - https://archive.ph/wip/hITkZ
 - A New Threat Actor Group Emerges: Understanding Lapsus$ - https://archive.ph/wip/w35q2
 - Who Is the LAPSUS$ Group? - https://archive.ph/wip/YMJRM
 - Unveiling the Tactics of Lapsus$: A Review of Internal Attacks Vectors, Mobile Device Exploitation, and Social Engineering Techniques - https://archive.ph/vocOx
@@ -761,3 +787,14 @@ Meet Lapsus$: An Unusual Group in the Cyber Extortion Business - https://archive
 - Why Are You Texting Me? UNC3944 Leverages SMS Phishing Campaigns for SIM Swapping, Ransomware, Extortion, and Notoriety - https://archive.ph/8Qsl6
 - Unmasking Phishing: Strategies for identifying 0ktapus domains and beyond - https://archive.ph/MzFcN
 - 5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme - https://archive.ph/bjvio
+- Lapsus$ Gang Part 2: Script Kiddies Get Massive Companies - https://archive.ph/phmqj
+- Teenagers Leveraging Insider Threats: Lapsus$ Hacker Group - https://archive.ph/pIzii 
+- The Lapsus$ Hacking Group Is Off to a Chaotic Start - https://archive.ph/J15nD
+- DEV-0537 criminal actor targeting organizations for data exfiltration and destruction - https://archive.ph/Q8WxA
+- LAPSUS$: How a Sloppy Extortion Gang Became One of the Most Prolific Hacking Groups - https://archive.ph/yBMAm
+- LAPSUS$ Data Breach Against Several High-Profile Victims - https://archive.ph/kht1U
+- Lapsus$: The script kiddies are alright - https://archive.ph/lLlUA
+- Lapsus$ hacker who targeted Uber and Grand Theft Auto maker indefinitely detained - https://archive.ph/YpoDk
+- 'This Is Really, Really Bad': Lapsus$ Gang Claims Okta Hack - https://archive.ph/YZGLm
+- British LAPSUS$ Teen Members Sentenced for High-Profile Attacks - https://archive.ph/FpFQ2
+- T-Mobile Admits Lapsus$ Hackers Gained Access to its Internal Tools and Source Code - https://archive.ph/j8k4G
