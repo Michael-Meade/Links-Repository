@@ -1,4 +1,6 @@
 # Links-Repository
+This is a "living" document which means I will update it once in a while to add new intresting URLs I come across. Some people collect silver, coins or dolls. I guess I collect links.
+
 
 ## Archaeology
 - Like humans, chimps often perform tasks differently when crowds are watching - https://archive.ph/FyZbf
@@ -36,6 +38,8 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - Case Files: Nikola Tesla - https://archive.ph/R5nkb
 - Nikola Tesla and the Tower That Became His ‘Million Dollar Folly’ - https://archive.ph/R1QnZ
 - Venting Doesn't Reduce Anger, But Something Else Does, Study Shows - https://archive.ph/MCwAH
+- How emoji can kill: As gangs move online, social media fuel violence - https://archive.ph/OFxcT#selection-335.1-335.5
+- AI Doesn’t Change Why Kids Should Learn to Code - https://archive.ph/Fl6Md
 
 
 ## DefCon Talks
@@ -67,7 +71,7 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 
 ## Lulz Sec
 - The Dark Arts: Meet The LulzSec Hackers - https://archive.ph/9OPQg
--  The Technology Snob’s Favorite Hacker Group - https://archive.ph/231hR
+- The Technology Snob’s Favorite Hacker Group - https://archive.ph/231hR
 - A timeline of hacking group LulzSec's attacks - https://archive.ph/b9fjK
 - Former Lulzsec hacker Jake Davis on his motivations - https://archive.ph/XGsXF
 - 50 days of Lulz: The life and times of LulzSec - https://archive.ph/qXV8w
@@ -78,6 +82,16 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - Operation Anti-Security: LulzSec and Anonymous target banks and governments - https://archive.ph/BcxvD
 - Sony Pictures hacked and Database Leaked by LulzSec - https://archive.ph/ZJlBA
 - Hacker group LulzSec says it's done - https://archive.ph/lwQR8
+- I am Avunit. Ask Me Anything.I am Avunit. Ask Me Anything. - https://archive.ph/dLViw
+- Who is the mystery sixth member of LulzSec? - https://archive.ph/KZhsm
+- FBI Says LulzSec Hacker Kingpin Was an Informant - https://archive.ph/GtR1r
+- Chats, Car Crushes and Cut ‘N Paste Sowed Seeds Of LulzSec’s Demise - https://archive.ph/Owt9f
+- Autistic Hacker Helped FBI Nail Anonymous Boss - https://archive.ph/CipE6
+- TeaMp0isoN declare war on LulzSec hactivists - https://archive.ph/2jFVd
+- Analyzing the Lulzsec Attacks - https://archive.ph/HImE2
+- Leaked LulzSec Chat Logs Put Personalities to Hacking Group - https://archive.ph/8NNtY
+- Leaked arrest warrants suggest Sabu wasn’t the only FBI mole in Lulzsec - https://archive.ph/OXsNH
+
 
 ## Arrests and takedowns
 - Spain arrests suspected hacker of US and Spanish military agencies - https://archive.ph/Y4Y1d
@@ -95,6 +109,7 @@ The hidden brain power behind programming - https://archive.ph/8hfcC
 - Overflow Vulnerabilities - https://archive.ph/BHML6
 
 ## Threat Reports
+- Street Gangs, Tax Fraud and ‘Drop Hoes’ - https://archive.ph/7TCiJ
 - Kiteshield Packer is Being Abused by Linux Cyber Threat Actors - https://archive.ph/FjHPC
 - Inside BRUTED: Black Basta (RaaS) Members Used Automated Brute Forcing Framework to Target Edge Network Devices - https://archive.ph/Ho3cZ
 - Modern Approach to Attributing Hacktivist Groups - https://archive.ph/wv5pS
@@ -690,9 +705,11 @@ execution capability - https://archive.ph/IW9vp
 - Finding Malware: Detecting GOOTLOADER with Google Security Operations. - https://archive.ph/ODziW
 - BianLian Ransomware Group: 2024 Activity Analysis - https://archive.ph/YA9Sj
 
-## Stocks
+## Stocks / investing
 - How to Pick Stocks: Fundamentals vs. Technical - https://archive.ph/gq2b8
 - Top Wall Street analysts pick these 3 dividend stocks for higher returns - https://archive.ph/ebsT1
+- I used AI to analyze every US stock. Here’s how to use this to make data-driven investing decisions - https://archive.ph/pW2b7
+
 
 ## AI
 - Machine Learning to identify malicious strings in a file - https://archive.ph/BJthZ
@@ -708,6 +725,8 @@ execution capability - https://archive.ph/IW9vp
 - AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition - https://archive.ph/m6rFb
 - Tracing Ransomware Threat Actors Through Stylometric Analysis and Chat Log Examination - https://archive.ph/J9F96
 - Which Doors Are Open: Reinforcement Learning-based Internet-wide Port Scanning - https://archive.ph/5thbR
+- Can We Train a Neural Network to Read Stock Market Charts? - https://archive.ph/Gi7PL
+
 
 ## Ruby
 - Ruby ERB Template Injectionm- https://archive.ph/dNrqn
@@ -798,3 +817,9 @@ https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cy
 - 'This Is Really, Really Bad': Lapsus$ Gang Claims Okta Hack - https://archive.ph/YZGLm
 - British LAPSUS$ Teen Members Sentenced for High-Profile Attacks - https://archive.ph/FpFQ2
 - T-Mobile Admits Lapsus$ Hackers Gained Access to its Internal Tools and Source Code - https://archive.ph/j8k4G
+- Scattered Spider: The Modus Operandi - https://archive.ph/cxn1R
+- Scattered Spider laying new eggs - https://archive.ph/r1kte
+- Scattered Spider - https://archive.ph/MD6v7
+- Understanding the Cyber Threat Powerhouse Muddled Libra - https://archive.ph//DCOQN
+- Dissecting Scattered Spider with Maltego - https://archive.ph/D2gfG
+- Scattered Spider Attack Analysis - https://archive.ph/Li7Rr
